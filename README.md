@@ -1,4 +1,4 @@
-### Hi there ![wave](https://user-images.githubusercontent.com/61668807/198291877-28308e84-f91f-4f9f-aad2-46f5e0aa1c4f.gif=100x20) I am Osman
+### Hi there ![wave](https://user-images.githubusercontent.com/61668807/198291877-28308e84-f91f-4f9f-aad2-46f5e0aa1c4f.gif =100x20) I am Osman
 
 - I’m currently working on a research paper on signature verification using VGG-16 and OC-SVM
 
