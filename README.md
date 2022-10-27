@@ -1,4 +1,4 @@
-### Hi there 👋 I am Osman
+### Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif I am Osman
 
 - I’m currently working on a research paper on signature verification using VGG-16 and OC-SVM
 
