@@ -6,6 +6,6 @@
 
 - I’m looking to collaborate on data science projects
 
-- Learning, unlearning relearning!
+- Learning, unlearning, relearning!
 
 - Email at [uthmant14@gmail.com]
