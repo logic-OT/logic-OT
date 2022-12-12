@@ -1,4 +1,4 @@
-## Hi there...<img src="https://user-images.githubusercontent.com/61668807/206937720-fda49710-bc52-4a56-8566-ee3d6a7e0460.gif" width="70" height="70" /> I am Osman
+## Hi there...<img src="https://user-images.githubusercontent.com/61668807/206937720-fda49710-bc52-4a56-8566-ee3d6a7e0460.gif" width="70" height="70" />  I am Osman
 
 - I’m currently working on a research paper on signature verification using VGG-16 and OC-SVM
 
