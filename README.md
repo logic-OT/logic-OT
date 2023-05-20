@@ -1,4 +1,5 @@
-## Hi there...<img src="https://user-images.githubusercontent.com/61668807/206937720-fda49710-bc52-4a56-8566-ee3d6a7e0460.gif" width="70" height="70" />  I am Osman
+## Hi there...<img src="![image](https://github.com/logic-OT/logic-OT/assets/61668807/218de709-c323-4bfb-b800-0bf56997e7d5)
+" width="70" height="70" />  I am Osman
 
 
 - I work mainly in the field of computer vision
