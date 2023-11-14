@@ -1,6 +1,7 @@
-## Hi there... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70" height="70"/>  I am Osman
+## Hi there... I am Osman
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70" height="70"/> 
 
-
+ 
 - I work mainly in the field of computer vision
 
 - I have conducted research in the fields of image segmentation and classification
