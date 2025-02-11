@@ -16,4 +16,4 @@
 
 - Learning, unlearning, relearning!
 
-- Find me on Linkedin at at [uthmant14@gmail.com]
+- Find me on Linkedin at at [https://www.linkedin.com/in/osman-tanko-b5a251193/]
